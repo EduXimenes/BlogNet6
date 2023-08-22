@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Blog
 build_property.RootNamespace = Blog
-build_property.ProjectDir = C:\ASPNET\Blog\Blog\Blog\
+build_property.ProjectDir = C:\ASPNET\BlogNet6\Blog\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\ASPNET\Blog\Blog\Blog
+build_property.MSBuildProjectDirectory = C:\ASPNET\BlogNet6\Blog
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/ASPNET/Blog/Blog/Blog/Pages/Error.cshtml]
+[C:/ASPNET/BlogNet6/Blog/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASPNET/Blog/Blog/Blog/Pages/Index.cshtml]
+[C:/ASPNET/BlogNet6/Blog/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASPNET/Blog/Blog/Blog/Pages/Privacy.cshtml]
+[C:/ASPNET/BlogNet6/Blog/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASPNET/Blog/Blog/Blog/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/ASPNET/BlogNet6/Blog/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASPNET/Blog/Blog/Blog/Pages/_ViewImports.cshtml]
+[C:/ASPNET/BlogNet6/Blog/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASPNET/Blog/Blog/Blog/Pages/_ViewStart.cshtml]
+[C:/ASPNET/BlogNet6/Blog/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASPNET/Blog/Blog/Blog/Pages/Shared/_Layout.cshtml]
+[C:/ASPNET/BlogNet6/Blog/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-paiqi6knjt
